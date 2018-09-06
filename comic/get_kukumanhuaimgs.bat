@@ -1,0 +1,2 @@
+python get_kukumanhuaimgs.py
+pause
